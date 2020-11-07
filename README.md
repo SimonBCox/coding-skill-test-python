@@ -1,0 +1,3 @@
+This is a coding skill test for Python. A full description of this test can be found in "Coding skills test Python.docx". The task is twofold, starting with the implementation of a partial text processing library and ending with the implementation of test cases for this library.
+
+The text processing library can be found in the "text_processing_lib" folder and the test cases in the "unit_tests" folder.
